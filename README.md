@@ -6,12 +6,10 @@ This project is a Java backend application for a Currency Converter, allowing us
 
 - **Currency Conversion:** Converts an amount from one currency to another.
 - **Latest Exchange Rates:** Utilizes the latest exchange rates provided by an external API (e.g., Fixer.io, ExchangeRatesAPI.io).
-- **Historical Rates:** Optionally supports historical exchange rates for specific dates.
 
 ## Technologies Used
 
 - **Java:** Core programming language.
-- **Spring Framework:** Used for dependency injection, MVC architecture, and RESTful services.
 - **External API:** Integrates with an external API to fetch exchange rates.
 - **JSON Parsing:** Handles JSON data to retrieve and parse exchange rate information.
 - **JUnit:** Unit testing framework for testing currency conversion logic.
