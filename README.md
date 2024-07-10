@@ -30,7 +30,7 @@ mvn clean install
 
 
 4. **Run the application:**
-
+java -jar target/currencyConverter-1.0-SNAPSHOT.jar
 
 
 ## Usage
