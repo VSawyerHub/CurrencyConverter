@@ -2,9 +2,9 @@
 
 This project is a Java backend application for a Currency Converter, allowing users to convert between different currencies based on current exchange rates.
 
-<div style="text-align:center">
-![Badge](https://github.com/VSawyerHub/CurrencyConverter/blob/master/Badge-Conversor.png)
-</div>
+<p align="center">
+<img src="https://github.com/VSawyerHub/CurrencyConverter/blob/master/Badge-Conversor.png"/>
+</p>
 
 ## Features
 
