@@ -2,6 +2,8 @@
 
 This project is a Java backend application for a Currency Converter, allowing users to convert between different currencies based on current exchange rates.
 
+![Badge](https://github.com/VSawyerHub/CurrencyConverter/blob/master/Badge-Conversor.png)
+
 ## Features
 
 - **Currency Conversion:** Converts an amount from one currency to another.
